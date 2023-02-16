@@ -1,4 +1,4 @@
-package com.uevitondev.hroauth;
+package com.uevitondev.hroauth.resources;
 
 import com.uevitondev.hroauth.entities.User;
 import com.uevitondev.hroauth.services.UserService;
